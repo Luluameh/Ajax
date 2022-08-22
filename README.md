@@ -1,2 +1,3 @@
 # Ajax
-my first appi work lol😂🤣
+my first api work lol😂🤣
+so here i tried using Axios 
